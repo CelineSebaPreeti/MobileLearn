@@ -6,7 +6,7 @@ package temp.com.model;
 
 /**
  *
- * @author Ramya
+ * @author lenovo
  */
 public class UserGroup {
     public String uid,gid,design,userid;
