@@ -6,7 +6,7 @@ package temp.com.model;
 
 /**
  *
- * @author Ramya
+ * @author lenovo
  */
 public class Contents {
     String contid,title,modid,groupid;
